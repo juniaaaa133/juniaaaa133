@@ -1,5 +1,5 @@
 ## Hey! ✌️🤗
-It's me, Rein Ogga Myo ✨
+## It's me, Rein Ogga Myo ✨
 <!--
 **juniaaaa133/juniaaaa133** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
