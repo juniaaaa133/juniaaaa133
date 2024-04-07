@@ -1,7 +1,7 @@
-### Hi there 👋
-
+## Hey! ✌️🤗
+It's me, Rein Ogga Myo ✨
 <!--
-**juniaaaa133/juniaaaa133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**juniaaaa133/juniaaaa133** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
